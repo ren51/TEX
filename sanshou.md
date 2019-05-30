@@ -8,7 +8,7 @@ https://texwiki.texjp.org/?TeX%20%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E
 http://www.latex-cmd.com/struct/title.html
 
 改行・空白
-http://www.latex-cmd.com/struct/title.html
+http://www.latex-cmd.com/struct/space.html
 
 文字サイズ
 http://www.latex-cmd.com/style/size.html
